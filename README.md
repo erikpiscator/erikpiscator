@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👷 Currently working on some personal websites
+- 📖 Learning dbt atm
+- 👯 Always open to collaborate
+
+Hit me up on [my LinkedIn](https://se.linkedin.com/in/erikpiscator) or write me an email at [erik.piscator@gmail.com](mailto:erik.piscator@gmail.com).
 <!--
 **erikpiscator/erikpiscator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
