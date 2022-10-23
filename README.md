@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👷 Currently working on some personal websites
+- 👷 Currently working on some personal websites and an exciting ML project
 - 📖 Learning dbt atm
 - 👯 Always open to collaborate
 
